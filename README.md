@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ali</h1>
+<h1 align="center">Hi 👋, I'm Abbas Ali</h1>
 <h3 align="center">Software Developer</h3>
+
+[![Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=abbaskizildag&layout=compact&langs_count=10&hide=html,smarty,javascript)](https://github-readme-stats.vercel.app/api/top-langs/?username=abbaskizildag&layout=compact&langs_count=10&hide=html,smarty,javascript)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
+
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abbas-ali-kizildag/)](https://www.linkedin.com/in/abbas-ali-kizildag/) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://abbaskizildag.medium.com/)](https://abbaskizildag.medium.com/) [![GitHub Follow Badge](https://img.shields.io/github/followers/abbaskizildag?label=follow&style=social)](https://github.com/abbaskizildag)
 </p>
 

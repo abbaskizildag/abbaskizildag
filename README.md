@@ -3,8 +3,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abbas-ali-kizildag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/abbas-ali-kizildag/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abbas-ali-kizildag" target="blank"><img align="center" style="color:white" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/abbas-ali-kizildag/" height="30" width="40" /></a>
 <a href="https://abbaskizildag.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="https://abbaskizildag.medium.com/" height="30" width="40" /></a>
+  
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abbas-ali-kizildag/)](https://www.linkedin.com/in/abbas-ali-kizildag/) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://abbaskizildag.medium.com/)](https://abbaskizildag.medium.com/) [![GitHub Follow Badge](https://img.shields.io/github/followers/abbaskizildag?label=follow&style=social)](https://github.com/abbaskizildag)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

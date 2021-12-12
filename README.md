@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abbas-ali-kizildag/)](https://www.linkedin.com/in/abbas-ali-kizildag/) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://abbaskizildag.medium.com/)](https://abbaskizildag.medium.com/) [![GitHub Follow Badge](https://img.shields.io/github/followers/abbaskizildag?label=follow&style=social)](https://github.com/abbaskizildag)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://tr.linkedin.com/in/abbas-ali-kizildag/)](https://tr.linkedin.com/in/abbas-ali-kizildag/) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://abbaskizildag.medium.com/)](https://abbaskizildag.medium.com/) [![GitHub Follow Badge](https://img.shields.io/github/followers/abbaskizildag?label=follow&style=social)](https://github.com/abbaskizildag)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
